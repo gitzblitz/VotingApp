@@ -1,2 +1,0 @@
-# VotingApp
-Android Workshop Tutorial
